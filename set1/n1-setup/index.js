@@ -10,7 +10,7 @@ console.log("          NODE.JS PROJECT SETUP");
 console.log("======================================");
 
 console.log("Project Name: N1 Setup");
-console.log("Student Name: Paul Vincent M. Pavo");
+console.log("Heart c. Laroya");
 console.log("Section: IV-BSIT-B");
 console.log("Node.js Version: " + process.version);
 
