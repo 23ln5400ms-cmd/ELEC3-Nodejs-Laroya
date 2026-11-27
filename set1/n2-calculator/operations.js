@@ -1,7 +1,7 @@
 
 /*
 Name: Heart C. Laroya
-Section: IV-BSIT 
+Section: IV-BSIT B
 Activity: N2 - Modular Calculator
 Date: November 24, 2026
 */
